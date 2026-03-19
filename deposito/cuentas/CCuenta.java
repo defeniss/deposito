@@ -18,7 +18,7 @@ public class CCuenta {
         saldo=sal;
     }
 
-    //aqui estan los getter y setter generados
+    //aqui estan los getter y setter generados.
     public String getNombre() {
 		return nombre;
 	}
